@@ -1,0 +1,7 @@
+samedi
+dimanche
+lundi
+mardi
+mercredi
+jeudi
+vendredi
